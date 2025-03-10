@@ -40,6 +40,8 @@ Dodger steps down from role at Zcash Foundation, Zashi 1.4 update, Shielded Labs
 
 ## Community Projects
 
+- [Chasqui (PoC), A Zcash Native Communication Tool - ZingoLabs](https://x.com/ZingoLabs/status/1897754586447835140)
+
 - [ZconVI Clip Contest Submissions!](https://forum.zcashcommunity.com/t/zconvi-clip/50561)
 
 - [ZconVI Community Recap Stream - ZKAV Club](https://x.com/ZkAv_Club/status/1898136321698177482)
